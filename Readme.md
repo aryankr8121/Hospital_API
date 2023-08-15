@@ -11,10 +11,7 @@ In a time where a major pandemic has covered all the world we need a system whic
 7. Unit testing integrated.
 
 ## How to install and run?
-1. Clone this project
-2. Start by installing npm and mongoDB if you don't have them already.
-3. Run the Mongo Server.
-4. Navigate to Project Directory by :
+
 ```
 cd Hospital-API
 ```
@@ -42,6 +39,5 @@ This code follows MVC pattern and hence everything is differentiated and well ma
 `/config` - contains config files for mongoose, passport or any other configs such as middlewares. <br>
 `/test` - contains files to test the code. <br>
 
-Feel free to use and contribute! :)
 
     
